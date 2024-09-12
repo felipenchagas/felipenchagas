@@ -67,10 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/felipenchagas/felipenchagas/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkOHZndzVjZXl5d2RzcXRmaWJxODU4em5xY2VxeHJ6OTN4emZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EiRZJNR7cgZwqncwM/giphy.webp"  />
 
 ###
